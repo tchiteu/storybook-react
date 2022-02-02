@@ -1,7 +1,6 @@
 /// <reference types="react-scripts" />
 
-interface Option {
-  label: string;
-  action?: () => void;
-  order?: number;
+interface SelectListOption {
+  text?: string
+  value?: any
 }
