@@ -1,0 +1,22 @@
+.h-side-menu {
+	font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 700;
+}
+
+.h-select-list-container {
+	width: 150px;
+	background-color: gold;
+}
+
+.h-select-list-container input {
+	width: 150px;
+}
+
+
+.h-options-list {
+	width: 150px;
+	background-color: red;
+	list-style-type: none;
+	padding-inline-start: 0px;
+	padding: 1px 2px;
+}
